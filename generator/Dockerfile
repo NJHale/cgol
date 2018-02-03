@@ -1,4 +1,4 @@
-FROM nexusrmps.njrar.us.ups.com:5002/golang:latest
+FROM golang:latest
 
 MAINTAINER Nick Hale <nhale@ups.com>
 
